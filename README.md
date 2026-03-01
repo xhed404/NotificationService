@@ -128,8 +128,8 @@ socket.on('job:completed', (data) => {
 ```
 
 ## Переменные окружения
- `PORT`
 
+ `PORT`
 `NODE_ENV`
 `REDIS_URL`
 `SMTP_HOST`
@@ -152,3 +152,4 @@ socket.on('job:completed', (data) => {
 
 
 Эхх, традиция... :)
+
