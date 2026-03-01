@@ -128,27 +128,27 @@ socket.on('job:completed', (data) => {
 ```
 
 ## Переменные окружения
+ `PORT`
 
-| Переменная
-| `PORT`
-| `NODE_ENV`
-| `REDIS_URL`
-| `SMTP_HOST`
-| `SMTP_PORT`
-| `SMTP_USER`
-| `SMTP_PASS`
-| `TWILIO_ACCOUNT_SID`
-| `TWILIO_AUTH_TOKEN`
-| `TWILIO_FROM_NUMBER`
-| `RATE_LIMIT_WINDOW_MS`
-| `RATE_LIMIT_MAX_REQUESTS`
-| `MAX_RETRIES`
-| `RETRY_DELAY_MS`
+`NODE_ENV`
+`REDIS_URL`
+`SMTP_HOST`
+`SMTP_PORT`
+`SMTP_USER`
+`SMTP_PASS`
+`TWILIO_ACCOUNT_SID`
+`TWILIO_AUTH_TOKEN`
+`TWILIO_FROM_NUMBER`
+`RATE_LIMIT_WINDOW_MS`
+`RATE_LIMIT_MAX_REQUESTS`
+`MAX_RETRIES`
+`RETRY_DELAY_MS`
 
 ## Шаблоны
 
 - `welcome` - Приветственное письмо
 - `passwordReset` - Сброс пароля
 - `notification` - Универсальное уведомление
+
 
 Эхх, традиция... :)
