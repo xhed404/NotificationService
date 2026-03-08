@@ -31,7 +31,7 @@ npm run dev
 docker-compose up -d
 ```
 
-## Прочитать про эндопинты Вы можете тут - Endpoints.md
+## Прочитать про эндопинты Вы можете тут - [Endpoints.md](Endpoints.md)
 
 ## WebSocket
 
@@ -85,6 +85,7 @@ socket.on('job:completed', (data) => {
 
 
 Эхх, традиция... :)
+
 
 
 
