@@ -4,6 +4,7 @@
 
 <details>
 <summary>Стек технологий</summary>
+  
 - Node.js 18 + Express
   
 - Redis (Bull queues)
@@ -92,6 +93,7 @@ socket.on('job:completed', (data) => {
 
 
 Эхх, традиция... :)
+
 
 
 
