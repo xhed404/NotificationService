@@ -2,8 +2,8 @@
 
 Мой микросервис для отправки уведомлений через Email, SMS (Twilio) с real-time статусом через WebSocket.
 
-## Стек технологий
-
+<details>
+<summary>## Стек технологий</summary>
 - Node.js 18 + Express
 - Redis (Bull queues)
 - Socket.io (WebSocket)
@@ -11,6 +11,7 @@
 - Twilio (SMS)
 - Joi (Validation)
 - Winston (Logging)
+</details>
 
 ## Как запустить?
 
@@ -85,6 +86,7 @@ socket.on('job:completed', (data) => {
 
 
 Эхх, традиция... :)
+
 
 
 
