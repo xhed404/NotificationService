@@ -13,7 +13,7 @@
 - Nodemailer (Email)
   
 - Twilio (SMS)
-- 
+
 - Joi (Validation)
   
 - Winston (Logging)
